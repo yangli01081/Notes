@@ -1,6 +1,6 @@
-[在 VSCode 中用 Markdown 做「数字化」学习笔记](https://orangex4.cool/post/notes-in-markdown/#类似-ultisnips-的自动补全)
+[在 VSCode 中用 Markdown 做「数字化」学习笔记](https://orangex4.cool/post/notes-in-markdown)
 
-[MPE使用教程](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/file-imports?id=强制渲染为代码块)
+[MPE使用教程](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)
 
 # 一级标题
 
