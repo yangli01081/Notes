@@ -1,3 +1,7 @@
+[在 VSCode 中用 Markdown 做「数字化」学习笔记](https://orangex4.cool/post/notes-in-markdown/#类似-ultisnips-的自动补全)
+
+[MPE使用教程](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/file-imports?id=强制渲染为代码块)
+
 # 一级标题
 
 ## 二级标题
@@ -58,20 +62,16 @@ function add(x, y) {
 
 ---
 
-[超链接名称](链接地址)
-
-![图片提示语](图片地址)
-
-例如, 可以使用网址和图床:
-
+使用网络图片：
+***只显示文字，超链接***
 [OrangeX4's Blog](https://pic2.zhimg.com/80/v2-c35303b43639b37a18b8893e906d7435_720w.png)
 
+***显示图片，不显示文字***
 ![OrangeX's Avatar](https://orangex4.cool/images/icons/profile.jpg)
 
+
 也可以在本地用相对地址:
-
 [Other](other.md)
-
 ![OrangeX's Avatar](images/profile.jpg)
 
 ---
