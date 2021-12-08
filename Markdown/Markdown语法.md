@@ -60,6 +60,8 @@ function add(x, y) {
 }
 ```
 
+支持语言：objectivec，swift，javescript，java，c,python
+
 ---
 
 使用网络图片：
